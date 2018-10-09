@@ -3,5 +3,6 @@
     <notification groupId=".ignore plugin" displayType="NONE" />
     <notification groupId=".ignore plugin update information" displayType="NONE" />
     <notification groupId="Gradle Notification Group" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
